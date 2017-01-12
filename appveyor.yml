@@ -1,6 +1,6 @@
 #test against this node version
-environment : 
-matrix : 
+environment: 
+matrix: 
 - nodejs_version : "7"
 #install scripts (runs after repository cloning)
 install: 
